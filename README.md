@@ -1,6 +1,6 @@
-# nutri_me
+# Fit 'O' Fun
 
-A new Flutter project.
+An AI based interactive, customized mobile app which can create interest in the child till the time a child takes to settle down on a routine.
 
 ## Getting Started
 
